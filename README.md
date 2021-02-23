@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Botshelo</h1>
+<h3 align="center">I'm a student who's passionate about new technologies, currently working with React, node.js and PostgreSQL</h3>
+
+- ⚡ &nbsp; Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
+
+<h4>Languages and tools 😄</h4>
 
 <!--
 **Botshxlo/Botshxlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
