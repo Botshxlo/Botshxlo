@@ -17,9 +17,10 @@
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/visual-studio-code.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/vercel.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/express.png" width="30" height="30" alt="express"/>
-  
-  
-  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Botshxlo&show_icons=true&count_private=true" alt="agusrdz" />
 </p>
 
 <!--
