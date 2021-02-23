@@ -5,6 +5,19 @@
 
 <h4>Languages and tools 😄</h4>
 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/windows/64/000000/yarn-logo.png" width="30" height="30"/>
+  
+  
+</p>
+
 <!--
 **Botshxlo/Botshxlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
