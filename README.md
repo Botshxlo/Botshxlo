@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Botshelo</h1>
-<h3 align="center">I'm a student who's passionate about new technologies, currently working with React, node.js and PostgreSQL</h3>
+<h3 align="center">I'm a student who's passionate about new technologies</h3>
 
+- 🌱 I’m currently learning **React, node.js and PostgreSQL**
 - ⚡ &nbsp; Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
-<h4>Languages and tools 😄</h4>
+<h4>💻 Languages and tools 😄</h4>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="30" height="30"/>
@@ -14,6 +15,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="30" height="30"/>
   <img src="https://img.icons8.com/windows/64/000000/yarn-logo.png" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/iconfinder_social_media_social_media_logo_git_2993773.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/visual-studio-code.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/vercel.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/express.png" width="30" height="30" alt="express"/>
