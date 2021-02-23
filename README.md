@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **React, node.js and PostgreSQL**
 - ⚡ &nbsp; Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
+### Spotify Playing 🎧
+
+
 <h4>💻 Languages and tools 😄</h4>
 
 <p align="center">
