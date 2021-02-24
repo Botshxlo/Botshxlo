@@ -25,8 +25,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Botshxlo&show_icons=true&count_private=true" alt="agusrdz" />
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Botshxlo's github stats](https://github-readme-stats.vercel.app/api?username=Botshxlo&show_icons=true&count_private=true)](https://github.com/Botshxlo/github-readme-stats)
+
+</details>
 </p>
+
+
 
 <!--
 **Botshxlo/Botshxlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
