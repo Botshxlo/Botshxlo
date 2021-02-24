@@ -33,7 +33,7 @@
 </details>
 </p>
 
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a3u7i68lvmu0it7lploo137fr)
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a3u7i68lvmu0it7lploo137fr&count={10})
 
 
 
