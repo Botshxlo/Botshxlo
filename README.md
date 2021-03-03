@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="30" height="30"/>
   <img src="https://img.icons8.com/windows/64/000000/yarn-logo.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/iconfinder_social_media_social_media_logo_git_2993773.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/visual-studio-code.png" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/Botshxlo/Botshxlo/main/images/vercel.png" width="30" height="30"/>
