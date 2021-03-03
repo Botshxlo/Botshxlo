@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Botshelo</h1>
 <h3 align="center">I'm a student who's passionate about new technologies</h3>
 
-- 🌱 I’m currently learning **React, node.js and PostgreSQL**
+- 🌱 I’m currently learning **React, Node.js, GraphQL and PostgreSQL**
 - ⚡ &nbsp; Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
 ### Spotify Playing 🎧
